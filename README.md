@@ -1,5 +1,8 @@
 # Week1_Project: Search Expected Unicorn Companies
+프로젝트에 영향을 끼친 부분
 
+1. 3년기준을 년기준에서 36개월 기준으로 변경
+2. 1000억기준 과 249억 기준을 나눠서 비교
 
 
 참여 팀원:
